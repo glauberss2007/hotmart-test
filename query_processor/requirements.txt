@@ -1,0 +1,7 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+pydantic==1.10.8
+transformers==4.46.3
+torch==1.9.0
+numpy<2
+qdrant-client==1.12.0
